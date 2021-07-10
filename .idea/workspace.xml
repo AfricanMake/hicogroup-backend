@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e38787cb-fb2e-4096-b859-44094c0c4af4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hicogroup/restfulwebservices/RestfulWebServicesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hicogroup/restfulwebservices/addNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hicogroup/restfulwebservices/addNameTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
