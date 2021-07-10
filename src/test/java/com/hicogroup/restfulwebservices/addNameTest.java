@@ -48,7 +48,7 @@ public class addNameTest {
 
         RequestBuilder requestBuilder = MockMvcRequestBuilders
 
-                .get("http://localhost:9090/hello-world/mali")
+                .get("/hello-world/mali")
                 .accept(MediaType.APPLICATION_JSON).content(String.valueOf(login))
                 .contentType(MediaType.APPLICATION_JSON);
 
