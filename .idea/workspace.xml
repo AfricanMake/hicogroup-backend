@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e38787cb-fb2e-4096-b859-44094c0c4af4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hicogroup/restfulwebservices/addNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hicogroup/restfulwebservices/AddNameTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +58,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AddNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful-web-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hicogroup.restfulwebservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hicogroup.restfulwebservices" />
+      <option name="MAIN_CLASS_NAME" value="com.hicogroup.restfulwebservices.AddNameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RestfulWebServicesApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restful-web-services" />
       <extension name="coverage">
@@ -71,25 +88,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="addNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="restful-web-services" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hicogroup.restfulwebservices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hicogroup.restfulwebservices" />
-      <option name="MAIN_CLASS_NAME" value="com.hicogroup.restfulwebservices.addNameTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.RestfulWebServicesApplication" />
-        <item itemvalue="JUnit.addNameTest" />
+        <item itemvalue="JUnit.AddNameTest" />
         <item itemvalue="JUnit.RestfulWebServicesApplicationTests" />
       </list>
     </recent_temporary>

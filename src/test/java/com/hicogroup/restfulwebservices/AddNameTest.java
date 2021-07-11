@@ -27,7 +27,7 @@ import static org.junit.Assert.assertEquals;
 @WebAppConfiguration
 
 @Component
-public class addNameTest {
+public class AddNameTest {
 
     @InjectMocks
     HelloWorldController helloWorldController = new HelloWorldController();
