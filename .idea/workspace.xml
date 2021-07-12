@@ -42,7 +42,7 @@
       <recent name="C:\Users\user-pc\Documents\Coding Programs\restful-web-services\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RestfulWebServicesApplication">
+  <component name="RunManager" selected="JUnit.AddNameTest">
     <configuration name="RestfulWebServicesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hicogroup.restfulwebservices.RestfulWebServicesApplication" />
       <module name="restful-web-services" />
@@ -88,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RestfulWebServicesApplication" />
         <item itemvalue="JUnit.AddNameTest" />
+        <item itemvalue="Application.RestfulWebServicesApplication" />
         <item itemvalue="JUnit.RestfulWebServicesApplicationTests" />
       </list>
     </recent_temporary>
